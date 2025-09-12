@@ -1,0 +1,3 @@
+dotnet new mvc -o Capitulo1: criando uma nova aplicação MVC com o nome Capitulo1
+
+dotnet run: pra rodar aplicação (ou play no VSCode)
