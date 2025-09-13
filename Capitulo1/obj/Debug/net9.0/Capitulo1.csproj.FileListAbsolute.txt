@@ -94,3 +94,4 @@ C:\Users\24166623\Downloads\WebBackEnd\Capitulo1\obj\Debug\net9.0\refint\Capitul
 C:\Users\24166623\Downloads\WebBackEnd\Capitulo1\obj\Debug\net9.0\Capitulo1.pdb
 C:\Users\24166623\Downloads\WebBackEnd\Capitulo1\obj\Debug\net9.0\Capitulo1.genruntimeconfig.cache
 C:\Users\24166623\Downloads\WebBackEnd\Capitulo1\obj\Debug\net9.0\ref\Capitulo1.dll
+C:\Users\24166623\Downloads\WebBackEnd\Capitulo1\obj\Debug\net9.0\Capitulo1.sourcelink.json

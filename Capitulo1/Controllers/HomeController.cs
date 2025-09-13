@@ -1,3 +1,5 @@
+// Controller é onde faz as rotas entre regra de negocio e views
+
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Capitulo1.Models;

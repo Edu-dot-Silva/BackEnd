@@ -1,3 +1,5 @@
+// Models é onde é programada a regra de negocio
+
 namespace Capitulo1.Models;
 
 public class ErrorViewModel
