@@ -1,0 +1,18 @@
+@model Exemplo01.Models.Produto
+
+@{
+    ViewData["Title"] = "Adicionar Produto";
+}
+
+<h1>Novo Produto</h1>
+<form asp-action="Criar" method="post">
+<div>
+        <label>Nome</label>
+        <input asp-for="Nome"/>
+</div>
+<div>
+        <label>Preco</label>
+        <input asp-for="Nome"/>
+</div>
+<button type="submit">Salvar</button>
+</form>
